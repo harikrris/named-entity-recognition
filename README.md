@@ -1,6 +1,5 @@
 ### EXP NO: 06
 
-### .
 
 # <p align = "center"> Named Entity Recognition </p>
  
